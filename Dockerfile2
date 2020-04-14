@@ -1,0 +1,5 @@
+From python
+MAINTAINER talukdarboni30@gmail.com , 8918939060
+RUN mkdir /mycode2
+COPY puchu.py /mycode2/puchu.py
+CMD python /mycode2/puchu.py
